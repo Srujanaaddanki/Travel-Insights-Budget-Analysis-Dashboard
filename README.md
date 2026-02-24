@@ -1,15 +1,11 @@
-<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/7aa6553f-b7e2-4423-87bc-42c4e8522d40" />
-<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/792e7337-2533-43bc-91b2-2b5ae946d948" />
-<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/ced37d6a-1931-45ab-910c-e2cbe00583b3" />
-<img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/14978cc6-6693-4301-9c5b-3979bad90022" />
-<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/6470393e-22df-420a-969b-a0c2ce4da49d" />
-
 # 📊 Travel Insights & Budget Analysis Dashboard  
 ### An Interactive Power BI Dashboard for Travel Behavior & Budget Analytics
 
 Travel data often remains underutilized due to static reports and lack of interactivity.  
 This project transforms raw travel survey data into a **dynamic, insight-driven Power BI dashboard** that helps understand travel patterns, budget utilization, seasonal trends, and traveler satisfaction.
 
+<img width="1919" height="1005" alt="image" src="https://github.com/user-attachments/assets/9a797673-355e-4eee-b113-4799e23b5160" />
+Provided a Quick-access links to LinkedIn profile, GitHub repository, and project dataset are provided for reference.
 The dashboard is designed to support **data-driven decision-making** through visually rich and interactive analytics.
 
 ---
@@ -22,6 +18,7 @@ It enables users to explore how travelers plan trips, spend budgets, choose dest
 This project focuses on **storytelling through data** by combining KPIs, trends, geographic analysis, and customer satisfaction metrics.
 
 ---
+<img width="1919" height="1010" alt="image" src="https://github.com/user-attachments/assets/792e7337-2533-43bc-91b2-2b5ae946d948" />
 
 ## 🎯 Project Objectives
 
@@ -46,6 +43,8 @@ This project focuses on **storytelling through data** by combining KPIs, trends,
 
 ## 📈 Dashboard Pages
 
+<img width="1919" height="1008" alt="image" src="https://github.com/user-attachments/assets/ced37d6a-1931-45ab-910c-e2cbe00583b3" />
+
 ### 1️⃣ Executive Overview Dashboard  
 Provides a quick snapshot of key metrics such as:
 - Total number of trips  
@@ -56,6 +55,9 @@ Provides a quick snapshot of key metrics such as:
 ---
 
 ### 2️⃣ Travel Trends & Forecast Insights (2D)  
+
+<img width="1916" height="1020" alt="image" src="https://github.com/user-attachments/assets/14978cc6-6693-4301-9c5b-3979bad90022" />
+
 - Monthly and seasonal travel trends  
 - Budget variations over time  
 - Forecast-based insights for future travel behavior  
@@ -63,6 +65,9 @@ Provides a quick snapshot of key metrics such as:
 ---
 
 ### 3️⃣ Traveler Journey & Geographic Analysis (3D)  
+
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/6470393e-22df-420a-969b-a0c2ce4da49d" />
+
 - Destination popularity across regions  
 - Travel behavior based on occupation and trip type  
 - Hierarchical and map-based visual exploration  
