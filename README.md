@@ -108,6 +108,15 @@ Provides a quick snapshot of key metrics such as:
 
 ---
 
+## 🔗 Access Links
+
+Linkdin - https://www.linkedin.com/feed/update/urn:li:activity:7408048091989282816/
+Dataset Link - https://docs.google.com/spreadsheets/d/1j_kxCGl5NBICDFKOrWRxWOOJ3uc6MGg5/edit?gid=159424351#gid=159424351
+GitHub Link - https://github.com/Srujanaaddanki/Travel-Insights-Budget-Analysis-Dashboard
+Live Dashboard Link - https://app.powerbi.com/view?r=eyJrIjoiZjE2NTkxMWYtOTcxYy00YTUyLTk2YjYtNTY1NmI5ZjRjMzliIiwidCI6ImUxNGU3M2ViLTUyNTEtNDM4OC04ZDY3LThmOWYyZTJkNWE0NiIsImMiOjEwfQ%3D%3D
+
+---
+
 ## 👤 Author
 
 **Srujana Addanki**  
